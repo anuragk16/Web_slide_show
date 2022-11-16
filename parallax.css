@@ -1,0 +1,85 @@
+*{font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body,html{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pgmi1{
+    margin: 100 auto;
+    background-image: url('../image/city1.jpg');
+    min-height:100%;
+    color: red;
+    height: fit-content;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+    
+}
+.pgmi2{
+    background-image: url('../image/city2.jpg');
+    min-height: 800px;
+    background-repeat: no-repeat;
+    color: green;
+    height: fit-content;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.pgmi3{
+    background-image: url('../image/city3.jpg');
+    min-height:800px;
+    background-repeat: no-repeat;
+    color: rgb(34, 181, 21);
+    height:max-content;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.pgmi4{
+    background-image: url('../image/naruto1.jpg');
+    min-height:800px;
+    background-repeat: no-repeat;
+    color: rgb(34, 181, 21);
+    height:max-content;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.pgmi5{
+    background-image: url('../image/narut2.jpg');
+    min-height:800px;
+    background-repeat: no-repeat;
+    color: rgb(34, 181, 21);
+    height:max-content;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+.pgmi6{
+    background-image: url('../image/naruto3.jpg');
+    min-height:800px;
+    background-repeat: no-repeat;
+    color: rgb(34, 181, 21);
+    height:max-content;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+
+.section_section-light , .section_section-dark {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
